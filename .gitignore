@@ -1,0 +1,7 @@
+.DS_Store
+*.sw*
+build/
+.dist/
+node_modules/
+source/fonts/iconfont.*
+npm-debug.log
